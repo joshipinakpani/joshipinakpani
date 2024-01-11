@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshipinakpani
-- 👀 I’m interested in WordPress, Laravel and VueJs.
-- 🌱 I’m currently learning ReactJs.
+- 👀 I’m interested in WordPress, Laravel, Flutter and VueJs.
+- 🌱 I’m currently learning ReactJs, Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
